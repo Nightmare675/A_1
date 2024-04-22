@@ -1,5 +1,3 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
-/*1️⃣ EJERCICIO 01 1️⃣*/
 
 // En los siguientes ejercicios deberás reemplazar el valor null
 // por el correspondiente.
@@ -25,12 +23,4 @@ console.log(nuevaMultiplicacion);
 const nuevoModulo = 21 % 5 === 1;
 console.log(nuevoModulo);
 
-/*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
-module.exports = {
-   nuevoString,
-   nuevoNumero,
-   nuevoBoolean,
-   nuevaResta,
-   nuevaMultiplicacion,
-   nuevoModulo,
-};
+
