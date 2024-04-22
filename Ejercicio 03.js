@@ -1,5 +1,3 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
-/*3️⃣ EJERCICIO 03 3️⃣*/
 
 function sonIguales(x, y) {
    // Retorna true si "x" e "y" son iguales.
@@ -66,13 +64,3 @@ function esImpar(num) {
       return false;
    }
 }
-
-/*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
-module.exports = {
-   tienenMismaLongitud,
-   sonIguales,
-   menosQueNoventa,
-   mayorQueCincuenta,
-   esPar,
-   esImpar,
-};
