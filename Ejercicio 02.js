@@ -1,5 +1,3 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
-/*2️⃣ EJERCICIO 02 2️⃣*/
 
 function devolverString(string) {
    // Debe retornar un string.
@@ -46,13 +44,3 @@ function obtenerResto(x, y) {
       return x % y;
   }
 }
-
-/*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
-module.exports = {
-   devolverString,
-   suma,
-   resta,
-   divide,
-   multiplica,
-   obtenerResto,
-};
